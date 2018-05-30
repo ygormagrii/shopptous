@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down2.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\slide_down2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up2.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\slide_up2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\trans_slide_out_right.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\trans_slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\debug\\anim\\trans_slide_in_left.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\anim\\trans_slide_in_left.xml"
+    }
+]

@@ -1,0 +1,122 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_pre">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:minHeight="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Seja bem vindo"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:height="50dp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="100dp" />
+
+    <Button
+        android:id="@+id/buttonC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_30dp"
+        android:background="@drawable/btn_compras"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:background="@drawable/btn_vendas"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_20sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:minHeight="20dp" />
+
+    <Button
+        android:id="@+id/buttonP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_20sp"
+        android:textStyle="bold"
+        android:text="Gerencie seus pedidos" />
+
+
+    <Button
+        android:id="@+id/btnCadastro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:background="#00ffffff"
+        android:text="Faça seu cadastro"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_22sp"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:longClickable="false" />
+
+    <android.support.v4.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <!-- Framelayout to display Fragments -->
+        <FrameLayout
+            android:id="@+id/frame_container2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+	    <!-- Framelayout to display Fragments -->
+	    <FrameLayout
+	        android:id="@+id/frame_container"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+            android:visibility="gone"/>
+
+	    <!-- Listview to display slider menu -->
+	    <ListView
+	        android:id="@+id/list_slidermenu"
+	        android:layout_width="400dp"
+	        android:layout_height="match_parent"
+	        android:layout_gravity="start"
+	        android:background="@color/theme_black_color"
+	        android:choiceMode="singleChoice"
+            android:visibility="gone"/>
+	</android.support.v4.widget.DrawerLayout>
+
+    <FrameLayout
+        android:id="@+id/frameAds"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/side_bar_list_header_bg"
+        android:visibility="gone">
+
+    </FrameLayout>
+
+</LinearLayout>
+

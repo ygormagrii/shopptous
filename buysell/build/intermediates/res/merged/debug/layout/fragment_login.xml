@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_content">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dimen_10dp"
+                android:orientation="vertical" >
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="Faça login"
+    android:id="@+id/textView6"
+    android:layout_gravity="center_horizontal"
+    android:textColor="#ffffff"
+    android:textStyle="bold"
+    android:layout_marginBottom="20dp"
+    android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/txtUsername"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:layout_marginTop="@dimen/dimen_5dp"
+        android:background="@drawable/textbox_profile"
+        android:ems="10"
+        android:digits="abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ_"
+        android:hint="Usuário"
+        android:inputType="textPersonName|text"
+        />
+
+    <requestFocus />
+
+<EditText
+    android:id="@+id/txtPassword"
+    android:layout_width="match_parent"
+    android:layout_height="73dp"
+    android:layout_marginTop="@dimen/dimen_5dp"
+    android:background="@drawable/textbox_profile"
+    android:ems="10"
+    android:hint="Senha"
+    android:inputType="textPassword"
+    />
+
+
+<Button
+    android:id="@+id/btnLogin"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="@dimen/dimen_10dp"
+    android:text="@string/button_login"
+    android:textColor="@color/text_white_cloor"
+    android:textSize="@dimen/text_size_20sp"
+    android:textStyle="bold" />
+
+<Button
+    android:id="@+id/btnRec"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="@dimen/dimen_10dp"
+    android:background="#00ffffff"
+    android:text="Esqueceu seu login ou senha?"
+    android:textColor="@color/text_white_cloor"
+    android:textSize="@dimen/text_size_20sp"
+    android:textStyle="bold"
+    android:singleLine="true"
+    android:longClickable="false" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

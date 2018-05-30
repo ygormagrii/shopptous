@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\internal_impl-21.0.0_255d90bcd7100236204ddee00353b717985415a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\twitter4j-stream-4.0.2_c188cd8a763ca51afe98e5c2450eef7c2bfcdde9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\twitter4j-core-4.0.2_58be462b799abb92554213354273e523d21b2f60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\jackson-core-2.2.2_3ba6c3bc00b57101e0bfd0d39cab8accf9ff98a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\apache-mime4j-0.6_8363ee783e4a50f8c65228ffddb56d2904a1f261.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\httpmime-4.3.4_f8623f2bd91ad82c04f7537f4301d07680d1dbcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\exploded-aar\BuySell\facebookSDK\unspecified\jars\libs\bolts.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1224fdf0f014329e0f433cc09441cbba7ad9cd5b">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\bolts_2f61466a933146d68b55d75c58a169400ba1bc54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\httpcore-4.3.2_e5c918fbd8ba5509c8503d574cfd8a00e025ac6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\AndroidMask-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fdc8870816a9efd7750d2e90ecdd548654b31789">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\AndroidMask-1.0.0_69daae2535f94825a01e34d75f77ba0049e4959c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.5.87_3ebf0896d7a92ec7059682e14c51de6bfd687e9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="23d4842074b95d6115b5f49dc3f9cd8fbb009a76">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\twitter4j-async-4.0.2_4c7f6ed1fcb55352d0a5ee3eaee8b007133edb9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\exploded-aar\BuySell\facebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8c43fb32b60567ed8cab45eb7464012b4d225bda">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\BuySell-facebookSDK-unspecified_e9da0eba33dc753b6810247caa8286953e02c2bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\jackson-annotations-2.2.2_4ee8cf74fd1cfa2941a5994a36f4c4fc4dd61c5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.0_12f3c74a796d68cf773d31fc5ac9129d54512c8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\twitter4j-media-support-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="96b1b89e9d7e95d040df13d638d1f237b9cf95f8">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\twitter4j-media-support-4.0.2_e0f073d768921abd65c7ed14ccbbcaa6dc17620f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\jackson-databind-2.2.2_0fe44cb07590151fb4e1fd9f6263d204b94df4e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0faef4253b4ba28f47d7bd56a1d438f79ab04e92">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\universal-image-loader-1.9.2-SNAPSHOT-with-sources_54669588a632db194e12afc3dfd7b6e7e9bf70a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\support-annotations-21.0.0_4fa6d4a8118ee0e727e05b77c15aedb727759e6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ygor\Desktop\BuySell\buysell\libs\httpclient-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="C:\Users\Ygor\Desktop\BuySell\buysell\build\intermediates\pre-dexed\release\httpclient-4.3.4_69ada96c39dcdd0f99f159fc091883de7e64edac.jar" />
+    </item>
+
+</items>

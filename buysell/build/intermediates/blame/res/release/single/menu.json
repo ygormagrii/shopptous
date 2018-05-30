@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_reviews.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_reviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_default.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_list.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_details.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_form_pedido.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_form_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_profile.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\build\\intermediates\\res\\merged\\release\\menu\\menu_new_review.xml",
+        "source": "C:\\Users\\Ygor\\Desktop\\BuySell\\buysell\\src\\main\\res\\menu\\menu_new_review.xml"
+    }
+]

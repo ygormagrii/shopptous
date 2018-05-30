@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_pre">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Buysell - Seja bem vindo"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:height="50dp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/buttonC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:background="@drawable/btn_compras"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_20sp"
+        android:textStyle="bold" />
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:minHeight="20dp" />
+
+
+    <Button
+        android:id="@+id/buttonV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:background="@drawable/btn_vendas"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnCadastro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:background="#00ffffff"
+        android:text="Faça seu cadastro"
+        android:textColor="@color/text_white_cloor"
+        android:textSize="@dimen/text_size_22sp"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:longClickable="false" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:title="@string/review"
+        android:icon="@drawable/ic_register"
+        android:id="@+id/meuPerfil"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+
+
+    <item
+        android:title="@string/review"
+        android:icon="@drawable/ic_login"
+        android:id="@+id/sairApp"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+</menu>

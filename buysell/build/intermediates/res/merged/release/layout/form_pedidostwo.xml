@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_content">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dimen_10dp"
+                android:orientation="vertical"
+                android:weightSum="1">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Monte seu pedido"
+                    android:id="@+id/textView7"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#ffee02"
+                    android:textStyle="bold" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:minHeight="25dp" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/quantidade"
+                    android:hint="Quantidade"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#000000"
+                    android:textColorHint="#4b4a4a"
+                    android:background="@drawable/textbox_profile"
+                    />
+
+                <Spinner
+                    android:id="@+id/Unidade"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/textbox_profile"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:id="@+id/descricao"
+                    android:hint="Descrição"
+                    android:textColor="#000000"
+                    android:textColorHint="#4b4a4a"
+                    android:background="@drawable/textbox_profile"
+                    android:selectAllOnFocus="false"
+                    android:gravity="top" />
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/dimen_10dp"
+                    android:textColor="@color/text_white_cloor"
+                    android:textStyle="bold"
+                    android:onClick="enviarDados"
+                    android:background="@drawable/button_ok" />
+
+                <Button
+                    android:id="@+id/buttonCancelar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/button_cancel"
+                    android:textColor="@color/text_white_cloor"
+                    android:textStyle="bold"
+                    android:layout_marginTop="-15dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
